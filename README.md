@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Diego, or you may as well know me by my nickname, Diekkan. This is my github, on which you will
+see pinned the most interesting repos (or so I think) right below. Take a look!
+
+- 🌱 I’m currently learning ExpressJS, and reenforcing React knowledge!
+
 <!--
 **Diekkan/Diekkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
