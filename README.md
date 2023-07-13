@@ -5,6 +5,9 @@ see pinned the most interesting repos (or so I think) right below. Take a look!
 
 - 🌱 I’m currently learning ExpressJS, and reenforcing React knowledge!
 
+  
+  ... 🤔 THIS PROFILE IS A WORK IN PROGRESS (meaning, yet to be finished) 😅 ...
+
 <!--
 **Diekkan/Diekkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
