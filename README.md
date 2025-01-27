@@ -1,25 +1,23 @@
-# <div align="center">Hello, fellow <𝚍𝚎𝚟𝚜/>!</div>
-<div align="center">(Or not so much🤔)</div><br>
-
+# <div align="center">Welcome to my profile!</div>
 
 <div align="center">
 
 ![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/87096384652158263/048C7CA4721998EDAB361A4DC4A2E1A72BE8B233/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
-This is Diego here! Welcome to my profile.<br>
-Here you can pretty much see my repos, contributions and more! <br>
+This is Diego!<br>
+Here you can see the work I mostly do on my freetimes, contributions and more!<br>
 I have some repos I'm currently working on that you might want to check out:<br>
 
 <a href="https://github.com/Diekkan/social-login">Social Auth</a><br>
 <a href="https://github.com/Diekkan/file-manager">File Manager</a><br><br>
 
-Feel free to take a look around! 👀Ñ
+Take a look around! 👀Ñ
 
 
 </div>
 <br>
 
-## <div align="center">About me</div>
+## <div align="center">About me (self spam zone)</div>
 <br>
 
 - I have experience building web apps, mainly using C# and Angular, but also React. <br>
@@ -46,6 +44,7 @@ Send me a message!<br><br>
 </div>
 
 <br><br>
+Some random quote from Bruce Lee that has been inspiring for me.
 
 ```
 Empty your mind. Be formless, shapeless like water. Now you put water into a cup, it becomes the cup.    
@@ -54,6 +53,6 @@ Now water can flow or it can crash. Be water my friend.
 ```
 <div align="center">
 
-<sup>Version 0.0.1 - 20th June, 2024</sup>
+<sup>Version 0.0.2 - 26th January, 2025</sup>
 
 </div>
